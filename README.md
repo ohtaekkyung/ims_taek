@@ -1,5 +1,9 @@
 # docker_open5gs
-Docker files to build and run open5gs in a docker
+Docker files to build and run open5gs in a docker.
+
+Original github project is https://github.com/herlesupreeth/docker_open5gs.
+
+This is from the herlesupreeth's open-source project.
 
 ## Tested Setup
 

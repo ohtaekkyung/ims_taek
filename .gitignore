@@ -1,1 +1,4 @@
 log/
+srslte/enb.log
+.git_taek
+core_log.txt
